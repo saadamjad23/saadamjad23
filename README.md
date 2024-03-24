@@ -2,18 +2,16 @@
 
 <h3>Passionate about AI and Cloud.</h3> 
 
-<h3>Meet me, </h3>
+Meet me,
 
-<h3>I am M Saad Amjad Khan from Pakistan.</h3>
+I am M Saad Amjad Khan from Pakistan.
 
-<h3>Reach me any second.</h3>
-
-<h3>Languages I know : </h3>
+<h5>Languages I know : </h5>
 
 > - python
 > - cpp
 
-<h3>LinkedIn:</h3>
+<h5>LinkedIn:</h5>
 
     https://www.linkedin.com/in/m-saad-amjad-khan
 
