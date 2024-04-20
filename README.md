@@ -10,6 +10,8 @@ I am M Saad Amjad Khan from Pakistan.
 
 > - python
 > - cpp
+> - HTML
+> - CSS
 
 <h5>LinkedIn:</h5>
 
