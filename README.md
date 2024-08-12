@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saad Amjad Khan</h1>
-<h3 align="center">A passionate developer from Pakistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saadamjad23&label=Profile%20views&color=0e75b6&style=flat" alt="saadamjad5" /> </p>
+<h3 align="center">A passionate Machine Learning Engineer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Machine Learning**
 
@@ -45,3 +43,45 @@
 | Kali |
 |----------|
 | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
+
+</div>
+
+---
+
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
+
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=saadamjad23&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadamjad23&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=saadamjad23&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
