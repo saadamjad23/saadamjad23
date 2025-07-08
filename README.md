@@ -37,7 +37,7 @@
 
 | PHP | Laravel | Blade | HTML | CSS | Bootstrap |
 |-----|---------|-------|------|-----|-----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blade/blade-original.svg" title="Blade" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blade/blade-original.svg" title="Blade" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="55" height="55"/> |
 
 ---
 
