@@ -27,19 +27,33 @@
 |----------|---------|--------|------------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" width="55" height="55"/> |
 
-### 🧪 Environments, Testing, and DevOps:
+### 🧪 Environments, Web, Testing, and DevOps:
 
-| Git | MySQL | Laravel |
-|-----|-------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" width="55" height="55"/> |
+| Git | MySQL | Laravel | XAMPP | PHP |
+|-----|-------|---------|-------|-----|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" width="55" height="55"/> | <img src="https://www.svgrepo.com/show/374171/xampp.svg" title="XAMPP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" width="55" height="55"/> |
 
 ### 💻 Operating Systems:
 
-| Kali Linux |
-|------------|
-| <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" width="55" height="55"/> |
+| Kali Linux | Windows |
+|------------|---------|
+| <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" width="55" height="55"/> |
 
 </div>
+
+---
+
+## 🧠 Key Skills Acquired (Restaurant Management System Project)
+
+- ✅ **Laravel Development:** Built full-stack web functionality using MVC and Eloquent ORM.
+- ✅ **Database Design:** Created normalized relational schema using MySQL with entity relationships and foreign key constraints.
+- ✅ **CRUD Operations:** Performed database transactions using migrations, seeders, and Laravel controllers.
+- ✅ **Authentication:** Implemented login, register, and admin/user roles with middleware protection.
+- ✅ **Frontend Integration:** Developed responsive pages using Blade templates, Bootstrap, and CSS.
+- ✅ **Invoice Generation:** Generated PDF-based dynamic invoices per order using backend logic.
+- ✅ **Admin Dashboard:** Built an analytics dashboard for order monitoring and system overview.
+- ✅ **Version Control:** Managed all source code using Git and GitHub, following best practices.
+- ✅ **Deployment:** Deployed on **Hostinger**, configured `.env`, managed database and file transfers.
 
 ---
 
