@@ -31,7 +31,7 @@
 
 | Git | MySQL | Laravel | XAMPP | PHP |
 |-----|-------|---------|-------|-----|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" width="55" height="55"/> | <img src="https://www.svgrepo.com/show/374171/xampp.svg" title="XAMPP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" width="55" height="55"/> | <img src="https://www.svgrepo.com/show/374171/xampp.svg" title="XAMPP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" width="55" height="55"/> |
 
 ### 💻 Operating Systems:
 
