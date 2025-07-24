@@ -35,9 +35,9 @@
 
 ### 🌐 Web Development:
 
-| PHP | Laravel | Blade | HTML | CSS | Bootstrap |
+| PHP | Laravel | HTML | CSS | Bootstrap |
 |-----|---------|-------|------|-----|-----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blade/blade-original.svg" title="Blade" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="55" height="55"/> |
 
 ---
 
@@ -45,7 +45,7 @@
 
 | XAMPP | VSCode | Git |
 |-------|--------|-----|
-| <img src="https://www.svgrepo.com/show/374171/xampp.svg" title="XAMPP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="55" height="55"/> |
+| <img src="https://github.com/saadamjad23/icons/blob/main/xampp.png" title="XAMPP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="55" height="55"/> |
 
 ---
 
@@ -53,7 +53,7 @@
 
 | MySQL | phpMyAdmin | GitHub |
 |-------|------------|--------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="55" height="55"/> | <img src="https://www.phpmyadmin.net/static/images/logo-og.png" title="phpMyAdmin" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="55" height="55"/> | <img src="https://www.phpmyadmin.net/static/images/logo-og.png" title="phpMyAdmin" width="55" height="55"/> | <img src="https://github.com/saadamjad23/icons/blob/main/github.png" title="GitHub" width="55" height="55"/> |
 
 ---
 
