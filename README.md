@@ -36,7 +36,7 @@
 ### 🌐 Web Development:
 
 | PHP | Laravel | HTML | CSS | Bootstrap |
-|-----|---------|-------|------|-----|-----------|
+|-----|---------|------|-----|-----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="55" height="55"/> |
 
 ---
@@ -53,7 +53,7 @@
 
 | MySQL | phpMyAdmin | GitHub |
 |-------|------------|--------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="55" height="55"/> | <img src="https://www.phpmyadmin.net/static/images/logo-og.png" title="phpMyAdmin" width="55" height="55"/> | <img src="https://github.com/saadamjad23/icons/blob/main/github.png" title="GitHub" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="55" height="55"/> | <img src="https://www.phpmyadmin.net/static/images/logo-og.png" title="phpMyAdmin" width="55" height="55"/> | <img src="https://github.com/saadamjad23/icons/blob/main/github%20(1).png" title="GitHub" width="55" height="55"/> |
 
 ---
 
